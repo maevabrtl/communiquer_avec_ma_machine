@@ -50,7 +50,7 @@
 >    - `git pull` : Récupérer les modifications depuis un repository distant
 >    - `git branch <nom_de_la_branche>` : Créer une nouvelle branche
 >    - `git checkout <nom_de_la_branche>` : Changer de branche
-
+<br><br>
 
 ## Branch 2
 <a name="B2FR"></a>
