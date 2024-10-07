@@ -31,26 +31,25 @@
 - [x]
 - [x]
 
-> [!NOTE]
-> **$\textsf{\color{blue}{Liste des commandes principales à retenir.}}$** <br>
-> _Terminal_ :
-> - `ls`: Lister le contenu d'un répertoire
-> - `cd` : Changer de répertoire
-> - `mkdir` : Créer un nouveau répertoire
-> - `touch` : Créer un nouveau fichier
-> - `rm` : Supprimer un fichier
-> - `cp` : Copier un fichier
-> - `mv` : Déplacer ou renommer un fichier
-> _Git_ :
-> - `git init` : Initialiser un nouveau repository Git
-> - `git clone <url_du_repository>` : Cloner un repository existant
-> - `git status` : Vérifier l'état de votre repository
-> - `git add <nom_du_fichier>` : Ajouter des fichiers à l'index
-> - `git commit -m "Message de commit"` : Créer un nouveau commit
-> - `git push` : Pousser les modifications vers un repository distant
-> - `git pull` : Récupérer les modifications depuis un repository distant
-> - `git branch <nom_de_la_branche>` : Créer une nouvelle branche
-> - `git checkout <nom_de_la_branche>` : Changer de branche
+> ### **$\textsf{\color{lightblue}{Liste des commandes principales à retenir.}}$**
+> - _Terminal_ :
+>    - `ls`: Lister le contenu d'un répertoire
+>    - `cd` : Changer de répertoire
+>    - `mkdir` : Créer un nouveau répertoire
+>    - `touch` : Créer un nouveau fichier
+>    - `rm` : Supprimer un fichier
+>    - `cp` : Copier un fichier
+>    - `mv` : Déplacer ou renommer un fichier <br>
+> - _Git_ :
+>    - `git init` : Initialiser un nouveau repository Git
+>    - `git clone <url_du_repository>` : Cloner un repository existant
+>    - `git status` : Vérifier l'état de votre repository
+>    - `git add <nom_du_fichier>` : Ajouter des fichiers à l'index
+>    - `git commit -m "Message de commit"` : Créer un nouveau commit
+>    - `git push` : Pousser les modifications vers un repository distant
+>    - `git pull` : Récupérer les modifications depuis un repository distant
+>    - `git branch <nom_de_la_branche>` : Créer une nouvelle branche
+>    - `git checkout <nom_de_la_branche>` : Changer de branche
 
 
 ## Branch 2
