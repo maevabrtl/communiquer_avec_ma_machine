@@ -5,7 +5,7 @@
 ## Introduction
 <a name="IntroFR"></a>
 :building_construction: Incoming...
-<br>
+<br><br>
 
 ## Branch 1 - Ordinateur, terminal et Git
 <a name="B1FR"></a>
@@ -22,16 +22,21 @@
  - Qu’est-ce qu’un argument de commande ?
  - Pourquoi utiliser git ? Quels problèmes cet outil permet-il de résoudre ?
  - Qu’est-ce qu’un commit ?
-### Liens utiles
+### Liens utiles 🔗
   - 📖 20 Commandes Git Incontournables - https://le-guide-du-secops.fr/2020/09/14/20-commandes-git-incontournables/ <sup>**FR**</sup> 
   - 🌳 Git Cheatsheet - https://ndpsoftware.com/git-cheatsheet.html#loc=workspace <sup>**FR/EN**</sup>
   - 👨‍💻 Terminal Cheatsheet - https://terminalcheatsheet.com/fr/guides/navigate-terminal <sup>**FR/EN**</sup>
   - 🌿 The **Amazing** [LearnGitBranching](https://learngitbranching.js.org/?locale=fr_FR) ! <sup>**FR/EN**</sup>
-### Exercices
-- [x]
-- [x]
+### Exercices 🏋️‍♀️
+- [x] Exercice 1 - Apprendre des commandes du terminal
+    - Essaye toutes les commandes listées ci-dessous et amuse toi !
+- [x] Exercice 2 - Se faire une arborescence de travail
+    - Crée une structure de dossiers pour organiser tes projets de développement, à l’aide de ton terminal uniquement.
+    - Cela peut par exemple être un dossier `ada` dans ton dossier utilisateur·ice ou bien sur ton bureau, qui contiendrait les dossiers `exercices individuels` , `projets` , `fiches arbres` …
 
-> ### **$\textsf{\color{lightblue}{Liste des commandes principales à retenir.}}$**
+> [!NOTE]
+> <a name="cmd"></a>
+> ### $\textsf{\color{#6082B6}{Liste des commandes principales à retenir.}}$
 > - _Terminal_ :
 >    - `ls`: Lister le contenu d'un répertoire
 >    - `cd` : Changer de répertoire
@@ -50,6 +55,8 @@
 >    - `git pull` : Récupérer les modifications depuis un repository distant
 >    - `git branch <nom_de_la_branche>` : Créer une nouvelle branche
 >    - `git checkout <nom_de_la_branche>` : Changer de branche
+
+C'est tout pour cette première branche ! 
 <br><br>
 
 ## Branch 2
